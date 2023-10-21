@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Live TV All Channels</string>
+
+    <string name="DDNews">The DD News APP is the Mobile Application for the DD News Channel which is the only terrestrial cum satellite News Channel of the country. The Application Aim to provide the live streaming, News feeds, Top videos . The News Channel of Indias Public Service Broadcaster has been successfully discharging its responsibility to give balanced, fair and accurate news without sensationalizing as well as by carrying different shades of opinion</string>
+    <string name="special_case">User-Generated Content Policy(UGC) By pressing the <b>&#34;Accept&#34;</b> button, I declare I have read and accepted the following condition of use:</string>
+
+    <string name="racerd">A broadband speed of 2 Mbit/s or more is recommended for streaming standard definition video without experiencing buffering or skips, especially live video, for example to a Roku, Apple TV, Google TV or a Sony TV Blu-ray Disc Player.</string>
+    <string name="reporterd">The audio stream is compressed to make the file size smaller using an audio coding format such as MP3, Vorbis, AAC or Opus.\10\10The video stream is compressed using a video coding format to make the file size smaller.Datagram protocols, such as the User Datagram Protocol (UDP), send the media stream as a series of small packets.This is simple and efficient; however, there is no mechanism within the protocol to guarantee delivery. It is up to the receiving application to detect loss or corruption and recover data using error correction techniques. If data is lost, the stream may suffer a dropout</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+
+    <string name="circled">Media that is live streamed can be recorded through certain media players such as VLC player, or through the use of a Screen Recorder.\10\10 There are also new marketing concepts.For example, the Berlin Philharmonic Orchestra sells Internet live streams of whole concerts, instead of several CDs or similar fixed media, by their so-called Digital Concert Hall using YouTube for trailing purposes only.</string>
+    <string name="escannerd">Useful – and typical – applications of the streaming concept are, for example, long video lectures performed online on the Internet.An advantage of this presentation is that these lectures can be very long, indeed, although they can always be interrupted or repeated at arbitrary places.Livestreaming platforms such as Twitch may also incorporate a video on demand system that allows automatic recording of live broadcasts so that they can be watched later.</string>
+
+
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tvfirmad">Designing a network protocol to support streaming media raises many problems.Video coding formats include H.264, HEVC, VP8 or VP9.\10\10Encoded audio and video streams are assembled in a container bitstream such as MP4, FLV, WebM, ASF or ISMA.</string>
+</resources>
